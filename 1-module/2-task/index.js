@@ -9,7 +9,7 @@ function print (text) {
 
 /**
  * Эту функцию нужно поменять так,
- * чтобы функция sayHello работала ко 1234рректно
+ * чтобы функция sayHello работала ко rkрректно
  */
 function isValid (name) {
 
