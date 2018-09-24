@@ -26,7 +26,7 @@ before_deploy:
 env:
   global:
     - NODE_ENV=testing
-    - ARTIFACTS_BUCKET=burlak.javascript.ru
+    - ARTIFACTS_BUCKET=burlaktest.javascript.ru
     - secure: >-
         WPliWKAcocyZc6fMp18dlztSgQ+fy9zdPP+PHON3Gi89eiG38L9WMytgNR3AVEBgzC+mGCYTwtaccRu1pJmG6ceZDt01bbo5ddzZ6a/oBBq0tcvDudeAHzxbtOOTakXNtC3Ww9p1J4E/alnQWUHJqsOkPt8eer9l8VmJ37a6MSpO3zFPkYR1UYMsK5UyXOrvdea5n2cpt49ygWqZii0j2Wf4my1pW+64dshig7P2sovG3xTnmZ099ps/sa3wukZtDelXmrKD4EuhusjFN6bZCUPd4rOuyd+t8Z2Y4zvThgQXl3G9HTv+mSUJamdIuYbY46QiTnnGbuF646jgoQrodcN/pdAx16LM0DcEiraGIp9Ax4UhaGAf6Mpwqq+mwiwO0PMUoyf/HKeNUt6oHD7/dH5dCL+QjvFp+SwwXgs2TKcvdfmIjPO0v4rcNh/4HpfW1bXHb2fB4+etLlRMuVzAWQyW7f9JhQgqKRDl4aKod+H6CCJXAGg8nv+N0t91ltxSEP0qIlFyxnIoR78vSdm5g2VyjIBIQirDCB/THaaiWJ4hlxdk694fmZwvbYJTkxvb9IJhZ/uq5aIqgSue4HjFJckh+Sn7mfATF26qIkjg0cTF3iEcsuNG/fWL/wkfO5xaOJ3Cy+pYCLoA1CyAmWK5uHGV5iE2ZTDqFjIWPEbJOaE=
     - secure: >-
